@@ -1,0 +1,1 @@
+alert("Mail sent successfully!");
